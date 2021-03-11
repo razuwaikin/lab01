@@ -12,3 +12,4 @@
 9) mv boost_output ~/boost-libs
 10) du -ah boost-libs 
 11) du -ah ~/boost-libs | sort -rh | head -n 10
+^ ^
